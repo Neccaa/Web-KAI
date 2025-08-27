@@ -28,7 +28,9 @@ Tailwind CSS — Framework CSS responsif dan utility-first.
 
 Clone repository:
 
- ```bash git clone https://github.com/username/nama-repo-kai.git
+ ```bash
+git clone https://github.com/username/nama-repo-kai.git
+```
 cd nama-repo-kai
 
 
