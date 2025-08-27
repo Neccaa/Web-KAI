@@ -28,35 +28,38 @@ Tailwind CSS — Framework CSS responsif dan utility-first.
 
 Clone repository:
 
- ```bash
-git clone https://github.com/username/nama-repo-kai.git
+```bash
+git clone https://github.com/username/Web-KAI
 ```
-cd nama-repo-kai
-
-
+```bash
+cd nama-Web-KAI
+````
 Install dependencies:
-
+```bash
 npm install
-
+```
 
 Jalankan development server:
-
+```bash
 npm run dev
-
+```
 
 Buka di browser:
-
+```bash
 http://localhost:5173
-
+```
 
 Build untuk produksi:
+```bash
 
 npm run build
+```
 
 
 Preview build produksi:
-
+```bash
 npm run preview
+```
 
 📌 Catatan
 
