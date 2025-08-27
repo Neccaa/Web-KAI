@@ -30,7 +30,7 @@ Clone repository:
 
 ```bash
 git clone https://github.com/Neccaa/Web-KAI
-cd nama-Web-KAI
+cd Web-KAI
 ````
 Install dependencies:
 ```bash
