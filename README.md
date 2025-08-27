@@ -1,12 +1,71 @@
-# React + Vite
+🌸 Website Anime – React + Vite + Tailwind + Jikan API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyek ini merupakan sebuah website anime yang dibuat menggunakan React dengan Vite sebagai bundler, serta didukung oleh Tailwind CSS untuk styling modern dan responsif. Data anime diambil dari Jikan Public API, yaitu API gratis yang menyediakan informasi lengkap mengenai anime, manga, karakter, hingga rekomendasi dari MyAnimeList.
 
-Currently, two official plugins are available:
+Dengan adanya website ini, pengguna dapat dengan mudah mencari, melihat detail, serta mendapatkan rekomendasi anime favorit mereka tanpa harus membuka langsung MyAnimeList.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Fitur Utama
 
-## Expanding the ESLint configuration
+🔍 Pencarian Anime – Cari anime berdasarkan judul secara real-time.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📄 Detail Anime – Menampilkan informasi detail seperti genre, rating, sinopsis, dan gambar.
+
+⭐ Rekomendasi Anime – Menyediakan daftar rekomendasi berdasarkan rating dan popularitas.
+
+📱 Responsif dengan Tailwind – Tampilan modern dan fleksibel di berbagai ukuran layar.
+
+⚡ HMR (Hot Module Replacement) – Pengembangan lebih cepat dengan dukungan dari Vite.
+
+🛠️ Teknologi yang Digunakan
+
+React
+ – Library untuk membangun antarmuka pengguna.
+
+Vite
+ – Bundler modern dengan performa tinggi.
+
+Tailwind CSS
+ – Framework CSS untuk styling cepat dan responsif.
+
+Jikan API
+ – Public API untuk data anime dari MyAnimeList.
+
+📦 Instalasi & Menjalankan Proyek
+
+Clone repository ini:
+
+git clone https://github.com/username/nama-repo.git
+
+
+Masuk ke folder project:
+
+cd nama-repo
+
+
+Install dependencies:
+
+npm install
+
+
+Jalankan development server:
+
+npm run dev
+
+
+Buka di browser:
+
+http://localhost:5173
+
+📌 Catatan Tambahan
+
+Proyek ini masih dalam tahap pengembangan, sehingga beberapa fitur mungkin akan terus ditambahkan.
+
+Jika ingin menggunakan linting lebih ketat, dapat menambahkan konfigurasi ESLint dengan dukungan TypeScript.
+
+🤝 Kontribusi
+
+Kontribusi selalu terbuka! Jika ingin membantu menambahkan fitur baru, memperbaiki bug, atau meningkatkan dokumentasi, silakan buat pull request atau buka issue di repository ini.
+
+📜 Lisensi
+
+Proyek ini menggunakan lisensi MIT, sehingga bebas digunakan dan dimodifikasi oleh siapa saja.
