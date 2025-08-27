@@ -29,7 +29,7 @@ Tailwind CSS — Framework CSS responsif dan utility-first.
 Clone repository:
 
 ```bash
-git clone https://github.com/username/Web-KAI
+git clone https://github.com/Neccaa/Web-KAI
 cd nama-Web-KAI
 ````
 Install dependencies:
