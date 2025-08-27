@@ -30,8 +30,6 @@ Clone repository:
 
 ```bash
 git clone https://github.com/username/Web-KAI
-```
-```bash
 cd nama-Web-KAI
 ````
 Install dependencies:
