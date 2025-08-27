@@ -1,4 +1,4 @@
-🚄 Website Kereta API (KAI) – React + Vite + Tailwind
+🚄 Website Kereta API (KAI) – React + Vite
 
 Proyek ini adalah website sederhana untuk menampilkan informasi harga tiket kereta, pilihan kereta yang tersedia, serta beberapa halaman tambahan seperti FAQ, review, dan syarat & ketentuan. Dibangun dengan React + Vite untuk performa cepat dan Tailwind CSS untuk styling modern & responsif.
 
