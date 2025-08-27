@@ -22,8 +22,6 @@ React — Library frontend modern.
 
 Vite — Bundler cepat dengan HMR.
 
-Tailwind CSS — Framework CSS responsif dan utility-first.
-
 📦 Instalasi & Menjalankan Proyek
 
 Clone repository:
